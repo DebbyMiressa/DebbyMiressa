@@ -1,34 +1,26 @@
-### Hi there 👋 I'm Nemwel
+### Hi there 👋 I'm Debby
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nemwel-Boniface/count.svg" />
+  <img src="https://profile-counter.glitch.me/DebbyMiressa/count.svg" />
 </p>
 
 A tech enthusiast with passion for programming and Front End web development.
 <!--
-**Nemwel-Boniface/Nemwel-Boniface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DebbyMiressa/DebbyMiressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ### Hello there, I'm Nemwel :wave:
 -->
 :telescope: I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
-- 🔭 I’m currently working on my website. Stay tuned!
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on any exciting project
-- 🤔 I’m looking for help with advanced JavaScript concepts
-- 📫 You can reach me at [@nemwel](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
-- 💬 Ask me about anything web development and martial arts
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I fancy the Lingala language.
+
+- 🔭 I’m currently working on Advancing myself
+- 🌱 I’m currently learning at Microverse
+- 👯 I’m looking to collaborate on Open source Projects
+- 🤔 I’m looking for help with React
+- 💬 Ask me about HTML, JS and CSS
+- 📫 How to reach me: GitHub: [@debby_miressa](https://github.com/DebbyMiressa)  Twitter: [@debby_miressa](https://twitter.com/debby_miressa)  LinkedIn: [LinkedIn](https://www.linkedin.com/in/debby-miressa-0b85b6182)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am electrical engineer and a computer scientist in addition to full stack web developer
+
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
