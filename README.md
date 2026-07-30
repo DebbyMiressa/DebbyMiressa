@@ -7,18 +7,18 @@ AI and Embedded Systems Engineer with a multidisciplinary background in Electric
 ### 🎓 Master's Thesis Research
 
 #### 📌 **[Feasibility Region Exploration for Efficient Design of High-Frequency Circuits](https://github.com/DebbyMiressa/Masters-Thesis)**  
-* **Overview:** A novel computational framework utilizing Python and MATLAB for machine-learning-assisted optimization, feasibility region exploration, and surrogate modeling of high-frequency circuits[cite: 2].
-* **Key Focus:** Combining machine learning with RF/antenna design automation to accelerate electromagnetic design space exploration[cite: 2].
-* **Tech Stack:** `Python` | `MATLAB` | `Surrogate Modeling` | `Machine Learning`[cite: 2]
+* **Overview:** A novel computational framework utilizing Python and MATLAB for machine-learning-assisted optimization, feasibility region exploration, and surrogate modeling of high-frequency circuits.
+* **Key Focus:** Combining machine learning with RF/antenna design automation to accelerate electromagnetic design space exploration.
+* **Tech Stack:** `Python` | `MATLAB` | `Surrogate Modeling` | `Machine Learning`
 
 ---
 
 ### 🔭 Current Focus & Projects
-- 🎓 **Research & Academics:** Finalizing MSc thesis work at VUB focusing on high-frequency circuit optimization[cite: 2].
-- ♟️ **[Chess3D](https://github.com/DebbyMiressa/Chess3D):** Virtual reality chess project built with C++ and OpenGL[cite: 2].
-- 🔍 **[Optical Code Scanner](https://github.com/DebbyMiressa/Optical-Code-Scanner):** Python-based image processing and optical code detection system[cite: 2].
-- ⚡ **Hardware Acceleration:** AES-128 accelerator integrated with Chipyard MMIO for RISC-V SoC design[cite: 2].
-- 📫 **How to reach me:** [debby_miressa@github](https://github.com/DebbyMiressa) | [LinkedIn](https://www.linkedin.com/in/debby-miressa-0b85b6182) | debmirmij@gmail.com[cite: 2]
+- 🎓 **Research & Academics:** Finalizing MSc thesis work at VUB focusing on high-frequency circuit optimization.
+- ♟️ **[Chess3D](https://github.com/DebbyMiressa/Chess3D):** Virtual reality chess project built with C++ and OpenGL.
+- 🔍 **[Optical Code Scanner](https://github.com/DebbyMiressa/Optical-Code-Scanner):** Python-based image processing and optical code detection system.
+- ⚡ **Hardware Acceleration:** AES-128 accelerator integrated with Chipyard MMIO for RISC-V SoC design.
+- 📫 **How to reach me:** [debby_miressa@github](https://github.com/DebbyMiressa) | [LinkedIn](https://www.linkedin.com/in/debby-miressa-0b85b6182) | debmirmij@gmail.com
 
 ---
 
