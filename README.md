@@ -1,45 +1,55 @@
-### Hi there 👋 I'm Debby
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DebbyMiressa/count.svg" />
+# Hi there, I'm Debby Miressa 👋
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/DebbyMiressa/count.svg" alt="Visitor Count" />
 </p>
 
-A tech enthusiast with passion for programming and Front End web development.
-<!--
-**DebbyMiressa/DebbyMiressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Electrical Engineer and Computer Scientist passionate about high-frequency circuit & antenna design, control systems, mathematical modeling, and full-stack software development. Currently working on my master's thesis research at Vrije Universiteit Brussel (VUB).
 
-### Hello there, I'm Nemwel :wave:
--->
-:telescope: I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
+---
 
-- 🔭 I’m currently working on Advancing myself
-- 🌱 I’m currently learning at Microverse
-- 👯 I’m looking to collaborate on Open source Projects
-- 🤔 I’m looking for help with React
-- 💬 Ask me about HTML, JS and CSS
-- 📫 How to reach me: GitHub: [@debby_miressa](https://github.com/DebbyMiressa)  Twitter: [@debby_miressa](https://twitter.com/debby_miressa)  LinkedIn: [LinkedIn](https://www.linkedin.com/in/debby-miressa-0b85b6182)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am electrical engineer and a computer scientist in addition to full stack web developer
+### 🔭 What I'm Up To
+- 🎓 **Research & Academics:** Thesis work focusing on high-frequency antenna design & optimization.
+- 💡 **Engineering & Tech:** RF/Antenna modeling, control systems engineering, and full-stack web applications.
+- 🛠️ **Freelance:** IT support, hardware troubleshooting, and systems administration.
+- 💬 **Ask me about:** Python, MATLAB, Control Theory, Microstrip Antennas, React, and Web Development.
+- 📫 **How to reach me:** [debby_miressa@github](https://github.com/DebbyMiressa) | [LinkedIn](https://www.linkedin.com/in/debby-miressa-0b85b6182)
 
-### Languages
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-### Front End Development
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nemwel-Boniface&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemwel-Boniface&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
-<div align="left">
-<a target="_blank"
-href="https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="mailto:nemwelboniface@outlook.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href="https://twitter.com/nemwel_bonie"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<div/>
+---
+
+### 🛠️ Tech Stack & Domain Expertise
+
+#### **Engineering & Simulation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### **Web & Software Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DebbyMiressa&show_icons=true&theme=tokyonight&count_private=true" alt="Debby's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebbyMiressa&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/debby-miressa-0b85b6182" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/debby_miressa" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
+  </a>
+</p>
